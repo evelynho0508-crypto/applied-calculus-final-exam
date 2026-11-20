@@ -1,0 +1,86 @@
+{
+question:
+"Given f(x)=2x+5, find f(4).",
+
+options:[
+"8",
+"9",
+"13",
+"15"
+],
+
+correct:2,
+
+explanation:
+"f(4)=2(4)+5=13"
+},
+
+{
+question:
+"The domain of f(x)=1/(x−3) is",
+
+options:[
+"All real numbers",
+"x ≠ 3",
+"x > 3",
+"x < 3"
+],
+
+correct:1,
+
+explanation:
+"The denominator cannot equal zero."
+},
+
+{
+question:
+"Evaluate lim(x→2)(x²−4)/(x−2)",
+
+options:[
+"2",
+"4",
+"6",
+"DNE"
+],
+
+correct:1,
+
+explanation:
+"x²−4=(x−2)(x+2), cancel and substitute x=2."
+},
+
+{
+question:
+"Find d/dx(x⁵)",
+
+options:[
+"5x",
+"5x⁴",
+"x⁴",
+"x⁵"
+],
+
+correct:1,
+
+explanation:
+"Power Rule: d/dx(xⁿ)=nxⁿ⁻¹"
+},
+
+{
+question:
+"A company's profit function is P(x)=−x²+20x+5. Where is profit maximized?",
+
+options:[
+"5",
+"10",
+"15",
+"20"
+],
+
+correct:1,
+
+explanation:
+"x=-b/(2a)=10"
+}
+
+];
