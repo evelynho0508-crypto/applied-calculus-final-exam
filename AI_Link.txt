@@ -1,0 +1,23 @@
+Course:
+Applied Calculus
+
+Project:
+Applied Calculus Final Exam Simulator
+
+AI Tool:
+Microsoft Copilot
+
+Usage:
+1. Generate Questions
+2. Generate Solutions
+3. Generate Website Code
+4. Generate Exam System
+
+Student:
+何心元
+
+Website:
+(To be filled after deployment)
+
+AI Conversation:
+(To be filled)
